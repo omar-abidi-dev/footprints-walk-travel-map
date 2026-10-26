@@ -75,9 +75,9 @@ oct2/
 2. Let Swift Package Manager resolve the Google Mobile Ads SDK.
 3. Select your development team under *Signing & Capabilities*, then build and run on an iPhone (iOS 26.2+).
 
-## Before release
+## Ads
 
-The AdMob identifiers in `Footprints-Info.plist` and `oct2/Services/AdManager.swift` are Google's public test IDs. Replace them with your own AdMob app and ad unit IDs before shipping to the App Store.
+Footprints shows AdMob app open and interstitial ads (never while a walk is recording). The AdMob app ID is in `Footprints-Info.plist` (`GADApplicationIdentifier`) and the ad unit IDs are in `oct2/Services/AdManager.swift` (`AdConfig`). When testing on your own device, register it as a test device in AdMob so you never tap live ads.
 
 ## Keywords
 

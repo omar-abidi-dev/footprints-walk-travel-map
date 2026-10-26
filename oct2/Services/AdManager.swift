@@ -4,11 +4,11 @@ import UserMessagingPlatform
 import AppTrackingTransparency
 import Observation
 
-/// Ad unit configuration. These are Google's TEST ids — replace them with your own
-/// AdMob ids before release (the app id lives in Footprints-Info.plist → GADApplicationIdentifier).
+/// Ad unit configuration (production AdMob ids).
+/// The app id lives in Footprints-Info.plist → GADApplicationIdentifier.
 enum AdConfig {
-    static let appOpenUnitID = "ca-app-pub-3940256099942544/9257395921"
-    static let interstitialUnitID = "ca-app-pub-3940256099942544/1033173712"
+    static let appOpenUnitID = "ca-app-pub-3633271666253179/4244216854"
+    static let interstitialUnitID = "ca-app-pub-3633271666253179/7317314782"
 
     /// Minimum gap between any two full-screen ads.
     static let appOpenCooldown: TimeInterval = 4 * 60

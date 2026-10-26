@@ -3,13 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>GADApplicationIdentifier</key>
-	<string>ca-app-pub-3940256099942544~3347511713</string>
-	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
-	<string>Footprints keeps recording your walk while your iPhone is locked or the app is in the background.</string>
-	<key>NSLocationWhenInUseUsageDescription</key>
-	<string>Footprints uses your location to draw your walks and pin the places you visit on your life map.</string>
-	<key>NSUserTrackingUsageDescription</key>
-	<string>Allowing tracking lets Footprints show ads that are more relevant to you. Your walks and places are never shared.</string>
+	<string>ca-app-pub-3633271666253179~6355374878</string>
 	<key>SKAdNetworkItems</key>
 	<array>
 		<dict>
