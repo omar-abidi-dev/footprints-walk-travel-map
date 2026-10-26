@@ -2,6 +2,8 @@
 
 **Places visited & world badges**
 
+![Footprints: Walk & Travel Map — app overview](docs/footprints-overview.png)
+
 Turn every walk and trip into a living map. Record routes, pin the places you love, and fill in badges for states, prefectures and countries as you explore.
 
 Every walk you take and every place you discover, drawn on one beautiful map of your life. Footprints records your walks, pins the places that matter to you, and turns your travels into badges you can fill in — state by state, prefecture by prefecture, country by country.
